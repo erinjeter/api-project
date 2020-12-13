@@ -1,0 +1,42 @@
+body {
+  text-align: left;
+  margin-top: 5em;
+  background-image: url("/Users/erin/ElevenFiftyProjects/Homework/APIproject/assets/markus-spiske-hU9gx8YfVK4-unsplash.jpg");
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: rgb(52, 75, 96);
+  font-weight: bold;
+  font-size: 50px;
+}
+h2 {
+  color: rgb(52, 75, 96);
+  font-weight: bold;
+}
+
+h3 {
+  color: grey;
+}
+
+input {
+  width: 400px;
+  border: none;
+  border-bottom: 3px solid rgb(52, 75, 96);
+  background-color: transparent;
+}
+
+.submit {
+  margin: 2em;
+  height: 30px;
+  width: 100px;
+  background-color: rgb(52, 75, 96);
+  border: none;
+  color: grey;
+}
+
+#musicDisplayArea {
+  width: 700px;
+  margin-top: 50px;
+}
