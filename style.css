@@ -1,7 +1,7 @@
 body {
   text-align: left;
   margin-top: 5em;
-  background-image: url("/Users/erin/ElevenFiftyProjects/Homework/APIproject/assets/markus-spiske-hU9gx8YfVK4-unsplash.jpg");
+  background-image: url("./assets/markus-spiske-hU9gx8YfVK4-unsplash.jpg");
   background-size: cover;
   font-family: "Montserrat", sans-serif;
 }
